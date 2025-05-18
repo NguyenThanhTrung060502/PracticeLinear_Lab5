@@ -74,9 +74,13 @@ def Draw(k, colors):
     # Show graph 
     plt.show()
 
+# Первый случай
 # Draw(2, colors)  # Для k = 2 
+# Второй случай
 # Draw(3, colors)  # Для k = 3
+# Третий случай
 # Draw(4, colors)  # Для k = 4
+# Четвертый случай
 # Draw(5, colors)  # Для k = 5
 
 
